@@ -1,4 +1,4 @@
-# hono-turnstile
+# Hono Turnstile
  
 Cloudflare Turnstile for Hono.
 
@@ -14,7 +14,7 @@ It can be used in the same way as @marsidev/react-turnstile.
 
 Inspired by
 
-* [react-turnstile](https://github.com/marsidev/react-turnstile)
+* [React Turnstile](https://github.com/marsidev/react-turnstile)
 
 ## License
 
