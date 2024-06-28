@@ -1,6 +1,6 @@
 # hono-turnstile
  
-A simple turnstile system for Hono.
+Cloudflare Turnstile for Hono.
 
 ## Installation
 ```bash
