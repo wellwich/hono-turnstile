@@ -1,7 +1,7 @@
 {
   "name": "@wellwich/hono-turnstile",
-  "version": "0.0.1",
-  "description": "Cloudflare Turnstile for Hono",
+  "version": "0.0.2",
+  "description": "Cloudflare Turnstile for Hono.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "exports": {
@@ -23,6 +23,14 @@
     "honox",
     "hono"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wellwich/hono-turnstile"
+  },
+  "bugs": {
+    "url": "https://github.com/wellwich/hono-turnstile/issues"
+  },
+  "homepage": "https://github.com/wellwich/hono-turnstile/blob/main/README.md",
   "author": "wellwich",
   "license": "MIT",
   "dependencies": {
